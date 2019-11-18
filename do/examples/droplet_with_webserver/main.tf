@@ -2,10 +2,15 @@
 # or using -var="do_token=..." CLI option
 
 variable "do_token" {}
+variable "ssh_key_id" {
+  type    = list
+  default = []
+}
+
 
 # Configure the DigitalOcean Provider
 provider "digitalocean" {
-  token = "${var.do_token}"
+  token = var.do_token
 }
 
 # Create a new Droplet in a specific region
@@ -14,7 +19,7 @@ resource "digitalocean_droplet" "testDroplet" {
   name     = "testDroplet01"
   region   = "fra1"
   size     = "s-1vcpu-1gb"
-  ssh_keys = [25638434, 25589560]
+  ssh_keys = var.ssh_key_id
 
   provisioner "remote-exec" {
     inline = [
