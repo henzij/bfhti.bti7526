@@ -8,4 +8,9 @@ Putty kann hier heruntergeladen werden:
 https://www.putty.org/
 
 Wenn Putty installiert ist, kann für die Generierung der Schlüssel **PuTTYgen** gestartet werden:
-![PuTTYgen](../img/00a_puttyGen.png)
+![PuTTYgen](../img/00a_puttyGen‎.png)
+
+Mit Hilfe von PuTTYgen kann nun folgendermassen ein Schlüsselpaar generiert werden:
+1. Als Typ "RSA" auswählen
+2. Auf "Genearte" klicken und die Maus im Feld darüber bewegen. Durch die Bewegung der Maus, wird eine Zufälligkeit generiert.
+![PuTTYgenGenerate](../img/00b_puttyGen_‎generate.png)
