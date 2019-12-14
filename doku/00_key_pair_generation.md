@@ -20,6 +20,9 @@ Mit Hilfe von PuTTYgen kann nun folgendermassen ein Schlüsselpaar generiert wer
 4. Der private Key muss auf jeden Fall mit der Endung .ppk gespeichert und dabei kann zuvor noch durch hinterlegen einer passphrase die Sicherheit erhöht werden.
 Beim Öffnen eines private Keys mit PuTTYgen, wird ebenfalls der public Key (selbes Fenster, wie direkt nach Generierung) angezeigt.
 
+## Windows - Generierung von Key Pair mit Linux Subsystem
+Damit 
+
 ## Linux - Generierung von Key Pair mit ssh-keygen
 Für die Erstellung eines Schlüsselpaars unter Linux kann die Command Utility **ssh-keygen** verwendet werden. Dies wird am Beispiel von Ubuntu Schritt für Schritt erläutert.
 
