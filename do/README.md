@@ -1,5 +1,5 @@
 # DigitalOcean
-## wie mit den Examples umgehen
+## Wie mit den Examples umgehen
 
 1. SSH IDs von DO herauslesen
 ```bash
@@ -18,12 +18,12 @@ Terrafrom init
 terraform plan -var="do_token=[TOKEN]" -var="ssh_key_id=[ID_1,ID_2,ID_3]"
 ``` 
 
-4. Terraform apply
+4. Terraform Apply
 ```bash
 terraform apply -var="do_token=[TOKEN]" -var="ssh_key_id=[ID_1,ID_2,ID_3]"
 ```
 
-5. Terrafrom destroy
+5. Terrafrom Destroy
 ```bash
 terraform destroy -var="do_token=[TOKEN]"
 ```
