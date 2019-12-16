@@ -13,17 +13,17 @@
 Terrafrom init
 ```
 
-3. Terraform Plan
+4. Terraform Plan
 ```bash
 terraform plan -var="do_token=[TOKEN]" -var="ssh_key_id=[ID_1,ID_2,ID_3]"
 ``` 
 
-4. Terraform Apply
+5. Terraform Apply
 ```bash
 terraform apply -var="do_token=[TOKEN]" -var="ssh_key_id=[ID_1,ID_2,ID_3]"
 ```
 
-5. Terrafrom Destroy
+6. Terrafrom Destroy
 ```bash
 terraform destroy -var="do_token=[TOKEN]"
 ```
