@@ -10,4 +10,4 @@ In der Dokumentation wurden einige Konfigurationen, welche durchgeführt werden 
 
 ## Step By Step Manuals
 - [Schlüsselpaar (public & private key) generieren](doku/00_key_pair_generation.md)
-- [SSH Verbindung mit HIlfe von Key als Authenzifizierung](doku/01_ssh_connection_with_key.md)
+- [SSH Verbindung mit Hilfe von Key als Authenzifizierung](doku/01_ssh_connection_with_key.md)
