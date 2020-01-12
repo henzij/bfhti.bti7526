@@ -3,7 +3,8 @@ Bei diesem Beispiel werden nur die minimal notwendigen Ressourcen für eine VM e
 - Virtuelles Netzwerk
 - Subnetz
 - Ressourcengruppe
-<br /><br />
+
+<br />
 Verwendete Authentifizierungsmethode für ssh Verbindung:
 - Benutzername und Passwort
 
