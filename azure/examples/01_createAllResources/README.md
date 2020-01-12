@@ -6,6 +6,7 @@ Verwendete Authentifizierungsmethode für ssh Verbindung:
 (definiert im Bereich os_profile der Ressource)
 <br /><br />
 Beim Beispiel werden folgende Ressourcen angelegt:
+
 | Ressourcentyp | Azure-Name des Beispiels |
 | ------------- | ------------------------ |
 | Virtuelles Netzwerk | testnetwork |

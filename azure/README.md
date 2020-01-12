@@ -73,4 +73,4 @@ Vorgehen für die Erstellung:
 
 **Hinweis:**  
 Die Erstellung aller Ressourcen kann ein paar Minuten dauern und wird mit der Meldung "Ihre Bereitstellung wurde abgeschlossen." bestätigt.  
-![ResourceCreationConfirmation](..\img\azure\../img/azure/08_confirmation_resource_creation.png)
+![ResourceCreationConfirmation](../img/azure/08_confirmation_resource_creation.png)

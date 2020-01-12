@@ -10,11 +10,9 @@ Deshalb zuerst das main.tf im Unterordner "01_vm_with_ssh_key" ausführen lassen
 Verwendete Authentifizierungsmethode für ssh Verbindung:
 - ssh key pair
 (definiert im Bereich os_profile_linux_config der Ressource)
-
-# TODO: Das Key File muss vorgängig ... abgelegt werden...
-
 <br /><br />
 Beim Beispiel werden folgende Ressourcen angelegt:
+
 | Ressourcentyp | Azure-Name des Beispiels |
 | ------------- | ------------------------ |
 | Virtuelles Netzwerk | testnetwork2 |
