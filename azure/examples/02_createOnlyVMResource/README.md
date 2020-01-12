@@ -6,6 +6,7 @@ Bei diesem Beispiel werden nur die minimal notwendigen Ressourcen für eine VM e
 <br /><br />
 Verwendete Authentifizierungsmethode für ssh Verbindung:
 - Benutzername und Passwort
+
 (definiert im Bereich os_profile der Ressource)
 <br /><br />
 Beim Beispiel werden folgende Ressourcen angelegt:
