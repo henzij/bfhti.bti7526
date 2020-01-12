@@ -3,7 +3,7 @@ Dieses Beispiel kann als Vorlage für die Erstellung einer VM Ressource inklusiv
 <br /><br />
 Verwendete Authentifizierungsmethode für ssh Verbindung:
 - Benutzername und Passwort
-<br />
+
 (definiert im Bereich os_profile der Ressource)
 <br /><br />
 Beim Beispiel werden folgende Ressourcen angelegt:
