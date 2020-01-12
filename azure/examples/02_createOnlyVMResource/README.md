@@ -4,8 +4,7 @@ Bei diesem Beispiel werden nur die minimal notwendigen Ressourcen für eine VM e
 - Subnetz
 - Ressourcengruppe
 
-<br />
-Verwendete Authentifizierungsmethode für ssh Verbindung:
+Verwendete Authentifizierungsmethode für ssh Verbindung:  
 - Benutzername und Passwort
 
 (definiert im Bereich os_profile der Ressource)
